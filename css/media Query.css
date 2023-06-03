@@ -1,0 +1,38 @@
+@media screen and ( max-width : 600px )  {
+    .sit{
+        width: 100%;
+    }
+    .pic{ width: 100%;
+    }
+    .vid{
+        width: 100%;
+    }
+    .in1{
+        width: 100%;
+
+    }  
+}
+@media screen and ( min-width : 601px ) and (max-width: 966px) {
+    .sit{
+        width: 50%;
+    }
+    .pic{ width: 50%;
+    }
+    .vid{
+        width: 50%;
+    }
+    .in1{
+        width: 100%;
+
+    }
+}
+@media screen and ( min-width : 967px )  {
+    .sit{
+        width: 25%;
+    }
+    .pic{ width: 33.33%;
+    }
+    .vid{
+        width: 33.33%;
+    }  
+}
